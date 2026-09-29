@@ -1,6 +1,6 @@
 # Portfolio IT — Erwan Omorodion
 
-Étudiant en **1re année de Bachelor IT** au **Geneva Institute of Technology** (Genève, Suisse), orienté **infrastructure, réseau, virtualisation et cybersécurité**.
+Étudiant en **1re année de Bachelor IT** au **Geneva Institute of Technology** (région de Genève, Suisse), orienté **infrastructure, réseau, virtualisation et cybersécurité**.
 
 Ce dépôt rassemble la documentation technique de mes projets de formation. Chaque projet présente le contexte, les technologies utilisées, les compétences mises en œuvre et la procédure complète avec captures d'écran.
 
@@ -35,4 +35,7 @@ Ce dépôt rassemble la documentation technique de mes projets de formation. Cha
 
 ## Contact
 
+**En recherche de stage** en informatique (infrastructure, réseau, support) dans la région de Genève.
+
+- LinkedIn : [linkedin.com/in/erwan-omorodion](https://www.linkedin.com/in/erwan-omorodion)
 - GitHub : [@ErwanOmr](https://github.com/ErwanOmr)
